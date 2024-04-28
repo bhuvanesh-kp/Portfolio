@@ -271,7 +271,7 @@ a:hover{
 }
 
 .about_img{
-    opacity: 0.5;
+    opacity: 0;
 }
 
 .about_bottom,
@@ -452,6 +452,7 @@ a:hover{
 .bg{
     background-image: url("WhatsApp Image 2024-01-29 at 14.27.35_a6aeec86.jpg");
     background-size: cover;
+    opacity: 1;
 }
 .intro{
     text-align: justify;
